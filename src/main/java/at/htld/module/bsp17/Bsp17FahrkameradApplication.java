@@ -1,7 +1,7 @@
 package at.htld.module.bsp17;
 
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
+		import org.springframework.boot.SpringApplication;
+		import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Bsp17FahrkameradApplication {
